@@ -10,7 +10,7 @@
 - [VS Code Download](#vs-code-download)
 - [Useful VS Code Extensions](#useful-vs-code-extensions)
 - [Shortcuts For Dummies](#shortcuts-for-dummies)
-- [Github / Gitlab Integration](#github-/-gitlab-integration)
+- [Github and Gitlab Integration](#github-and-gitlab-integration)
 
 
 
@@ -69,4 +69,4 @@ To kick off your development journey, the following extensions may be helpful to
 --------------------
 
 
-## Github / Gitlab Integration
+## Github and Gitlab Integration
